@@ -8,7 +8,7 @@ Collecting information Related to SubDomain and Publicly available Email address
 TCS.com
 
 ## Domain lookup  with whois tool
-the WHOIS tool is used to gather information about registered domains, including details like the domain owner's contact information, registration dates, and the registrar used. If you have a specific domain in mind, I can guide you on how to use a WHOIS service or interpret the information you find.
+the WHOIS tool is used to gather information about registered domains, including details like the domain owner's contact information, registration dates, and the registrar used.
 
 ![Screenshot 2025-01-19 135839](https://github.com/user-attachments/assets/61fbfd93-2777-4c04-b9da-71ceb3a42491)
 
